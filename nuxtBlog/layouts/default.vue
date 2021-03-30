@@ -1,6 +1,5 @@
 <template>
   <div style="widht:100%;height:100%;">
-  d
     <nuxt />
   </div>
 </template>

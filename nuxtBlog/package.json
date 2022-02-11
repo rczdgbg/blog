@@ -13,7 +13,7 @@
   "dependencies": {
     "element-ui": "^2.10.1",
     "koa": "^2.6.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "vue-burger-menu": "^2.0.2",
     "vue-loading-spinner": "^1.0.11",
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.18.9",
     "sass-loader": "^7.1.0",
     "scss-loader": "0.0.1"
